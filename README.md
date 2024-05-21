@@ -47,4 +47,4 @@ I'm currently learning more about Golang and better UI/UX web design practices. 
 
 Thanks for stopping by!
 
-// cd ../xkcd | cat [xkcd.jk](https://xkcd.com/1597/)
+// cat [xkcd.jk](https://xkcd.com/1597/)
